@@ -60,6 +60,16 @@ java NQueens 8
 
 ---
 
+## Project Structure
+
+NQueens/
+- ├── src/
+- │   └── NQueens.java
+- ├── README.md
+- └── LICENSE
+
+---
+
 ## License
 
 This project is licensed under the terms of the MIT License
