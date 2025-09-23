@@ -62,11 +62,13 @@ java NQueens 8
 
 ## Project Structure
 
+```
 NQueens/
-- ├── src/
-- │   └── NQueens.java
-- ├── README.md
-- └── LICENSE
+├── src/
+│   └── NQueens.java
+├── README.md
+└── LICENSE
+```
 
 ---
 
